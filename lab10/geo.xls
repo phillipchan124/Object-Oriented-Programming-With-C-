@@ -1,0 +1,8 @@
+Shape 	side 	radius 	length 	width 	height 	area 	perimeter 	surface area 	volumne 
+SQUARE	14.5					210.25	58.00
+RECTANGLE 			14.5	4.65		67.43	38.30
+CIRCLE		14.5				660.52	91.11
+CUBE	13							1014.00	2197.00
+PRISM			1	2	3			22.00	6.00
+CYLINDER		1.23			0			9.51	0.00
+CYLINDER		50			1.23			16094.37	9660.39
